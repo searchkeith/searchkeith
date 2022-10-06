@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @searchkeith
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Tech Sales, Python, and Penetration Testing
+- 🌱 I’m currently learning Python, Penetration Testing, & Red Teaming
 - 💞️ I’m looking to collaborate w/ guests in the Computer Science industry for my new Podcast/YouTube series.
 - 📫 How to reach me (DM me)
 
